@@ -1,0 +1,28 @@
+.login {
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+}
+.login input {
+    width: 200px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    border-bottom: 1px solid #000000;
+    margin: 10px;
+    border-radius:10px;
+}
+.but{
+    width: 200px;
+    height: 50px;
+    background-color: #369739;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
